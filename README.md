@@ -34,7 +34,7 @@ Unit Error, Multiple Errors
 ## Dataset Columns
 | Column | Description |
 |---|---|
-| Question ID | Unique ID per problem (Q001-Q050) |
+| Question ID | Unique ID per problem (M001-M050) |
 | Model Name | LLM that generated the response |
 | Topic | Math topic category |
 | Difficulty | Easy / Medium / Hard |

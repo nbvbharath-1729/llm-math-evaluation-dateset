@@ -253,7 +253,7 @@ Weak explanation: "Good response." (does not say what was good)
 
 | Column | Type | Description |
 |---|---|---|
-| Question ID | String | Unique identifier (Q001 – Q050) |
+| Question ID | String | Unique identifier (M001 – M050) |
 | Model Name | String | GPT-4o, Claude, or Gemini |
 | Topic | String | Math topic category |
 | Difficulty | String | Easy, Medium, or Hard |
